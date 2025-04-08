@@ -1,2 +1,2 @@
 # MATEA_PhD_course
-Methods and Applications in Terrestrial Ecosystem Analysis (MATEA PhD course)
+**M**ethods and **A**pplications in **T**errestrial **E**cosystem **A**nalysis (MATEA PhD course)
